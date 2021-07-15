@@ -5,6 +5,8 @@ tags: [논문리뷰, DL, CV]
 comments: true
 ---
 
+(테스트용 작성, 추후 더 읽고 내용 추가할 것임.)
+
 논문 링크 :  https://arxiv.org/pdf/1502.03044.pdf
 
 주어진 이미지에 대한 설명을 제시하는 문제를 image caption 문제라고 한다. 이 문제는 다르게 이해하자면 computer vision의 매우 기초적인 목표라고도 볼 수 있는 "scene understanding"에 대한 문제이다. 이를 위해서는 image의 object를 정확하게 인식할 수 있어야하고, object들 사이의 관계를 추론하고 어떤 상황인지를 알아내야하고, 이 상황을 natural language 로 설명해야한다. 단순히 Computer vision에서의 문제가 아닌, NLP까지도 포괄하는 문제이다.

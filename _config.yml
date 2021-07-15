@@ -6,7 +6,7 @@
 name: Seoyeon Lee
 
 # Short bio or description (displayed in the header)
-description: Undergraduate student at HYU
+description: Hello I'm Seoyeon Lee!! 😆
 
 #
 # Flags below are optional
@@ -24,8 +24,6 @@ navigation:
     url: /
   - name: About
     url: /about
-  - name: Archive
-    url: /archive
   - name: Tags
     url: /tags
 
@@ -42,7 +40,7 @@ footer-links:
   github: sylee623
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
-  linkedin:https://www.linkedin.com/in/seoyeon-lee-40a3b2201/
+  linkedin: https://www.linkedin.com/in/seoyeon-lee-40a3b2201/
   pinterest:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"

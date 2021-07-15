@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hello!! I'm Seoyeon Lee, undergraduate Student in HYU and triple majoring at Life Science, Computer Science, Bio-SW Convergence.
+Now I'm really interested in Bioinformatics, Cognitive neuroscience and brain inspired AI.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[seoyeon0623@hanyang.ac.kr](seoyeon0623@hanyang.ac.kr)

@@ -9,4 +9,4 @@ Now I'm really interested in Bioinformatics, Cognitive neuroscience and brain in
 
 ### Contact me
 
-[seoyeo0623@hanyang.ac.kr](seoyeo0623@hanyang.ac.kr)
+[seoyeon0623@hanyang.ac.kr](seoyeon0623@hanyang.ac.kr)

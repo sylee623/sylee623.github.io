@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sylee623.github.io/sitemap.xml
+Sitemap: https://sylee623.github.io./sitemap.xml

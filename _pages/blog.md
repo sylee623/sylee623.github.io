@@ -1,6 +1,7 @@
 ---
 layout: default
-permalink: /blog/
+permalink: /blog
+redirect: /garden/
 title: blog
 nav: true
 nav_order: 5

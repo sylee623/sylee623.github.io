@@ -1,24 +1,23 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Seoyeon Lee",
+    "label": "Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "seoyeon0623@hanyang.ac.kr",
+    "phone": "(+82) 10-3389-7177",
+    "url": "https://sylee623.github.io",
+    "reserachinterest": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "502, 4, Majang-ro 46-gil, Seongdong-gu, Seoul, South Korea",
+      "postalCode": "04757",
+      "city": "Seoul",
+      "countryCode": "KR"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "seoyeonlee_",
+        "url": "https://twitter.com/seoyeonlee_"
       }
     ]
   },

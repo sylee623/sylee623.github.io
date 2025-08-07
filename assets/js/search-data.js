@@ -423,33 +423,33 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-elucidating-interaction-between-unique-olfactory-sensory-neurons-osns-expressing-3-odorant-receptors-ors-and-gnrh-neurons-in-developing-olfactory-epithelium-oe",
+          title: 'Elucidating interaction between unique olfactory sensory neurons(OSNs) expressing 3 odorant receptors(ORs) and GnRH...',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+            },},{id: "projects-resolving-molecular-mechanism-of-complex-regional-pain-syndrome-crps-with-spatial-transcriptomics",
+          title: 'Resolving molecular mechanism of Complex Regional Pain Syndrome(CRPS) with spatial transcriptomics',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
+            },},{id: "projects-constructed-single-cell-transcriptomics-profile-of-locus-coeruleus-norepinephrine-neurons-derived-from-human-ipscs-and-performed-its-bioionformatic-analysis",
+          title: 'Constructed single-cell transcriptomics profile of locus coeruleus norepinephrine neurons derived from human iPSCs...',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
+            },},{id: "projects-exploring-the-molecular-mechanism-of-neurodevelopmental-deficit-caused-by-particulate-matter-exposure-in-juvenile-mouse",
+          title: 'Exploring the molecular mechanism of neurodevelopmental deficit caused by particulate matter exposure in...',
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
+            },},{id: "projects-single-cell-nuclei-rna-profiling-with-cellplex-10x-genomics-in-caudate-tail-and-caudate-head-of-macaca-mulatta-rhesus-monkey-and-its-analysis",
+          title: 'Single cell / nuclei RNA profiling with Cellplex (10x Genomics) in Caudate tail...',
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
+            },},{id: "projects-de-novo-variant-calling-analysis-and-its-functional-annotation-in-cohort-of-hiroshima-and-nagasaki-atomic-bomb-victims-and-its-descendants",
+          title: 'De novo variant calling analysis and its functional annotation in cohort of Hiroshima...',
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";

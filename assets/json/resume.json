@@ -21,15 +21,32 @@
       }
     ]
   },
-  "work": [
+  "Research Experiences": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Department of Chemistry, Université Côte d'Azur",
+      "position": "Visiting Scholar",
+      "startDate": "2024-06-23",
+      "endDate": "2024-07-13",
+      "summary": "Ligand prediction for 3 odorant receptors with protein large language model",
+      "highlights": [""]
+    },
+
+    {
+      "name": "Department of Biological Sciences, Seoul National University",
+      "position": "Research Intern",
+      "startDate": "2021-12-15",
+      "endDate": "2023-02-15",
+      "summary": "Single cell / nuclei RNA profiling with Cellplex (10x Genomics) in Caudate tail and Caudate head of Macaca mulatta (Rhesus monkey) and its analysis",
+      "highlights": ["Striatum", "Caudate Nucleus", "scRNA-seq", "Non human primate"]
+    },
+
+    {
+      "name": "Bio Open Innovation Center,Pohang University of Science and Technology",
+      "position": "Researcher",
+      "startDate": "2023-02-01",
+      "endDate": "2023-05-15",
+      "summary": "Bioinformatic analysis for run-on based nascent transcriptome, scATAC-seq and 3D genome (Hi-C) database",
+      "highlights": ["Epigenomics", "Bioinformatics", "3D Genomics"]
     }
   ],
   "volunteer": [

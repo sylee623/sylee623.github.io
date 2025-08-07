@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 3 with very long name
+title: Constructed single-cell transcriptomics profile of locus coeruleus norepinephrine neurons derived from human iPSCs and performed its bioionformatic analysis
 description: a project that redirects to another website
 img: assets/img/7.jpg
 redirect: https://unsplash.com

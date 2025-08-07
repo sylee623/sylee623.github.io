@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 6
+title: De novo variant calling analysis and its functional annotation in cohort of Hiroshima and Nagasaki atomic bomb victims and its descendants
 description: a project with no image
 img:
 importance: 4

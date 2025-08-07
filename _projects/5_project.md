@@ -1,6 +1,7 @@
 ---
 layout: page
-title: project 5
+title: Single cell / nuclei RNA profiling with Cellplex (10x Genomics) in Caudate tail and Caudate head of Macaca mulatta (Rhesus monkey) and its analysis
+
 description: a project with a background image
 img: assets/img/1.jpg
 importance: 3

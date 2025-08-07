@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 1
+title: Elucidating interaction between unique olfactory sensory neurons(OSNs) expressing 3 odorant receptors(ORs) and GnRH neurons in developing olfactory epithelium(OE)
 description: with background image
 img: assets/img/12.jpg
 importance: 1

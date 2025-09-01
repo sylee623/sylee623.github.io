@@ -16,11 +16,6 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 <div class="post">
-  <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
-  </div>
-
   <iframe src="/garden/" width="100%" height="1000px" style="border: none;"></iframe>
 </div>
 
